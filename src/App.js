@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Analytics } from "@vercel/analytics/react"
 import { BrowserRouter as Router, Route, Routes, Link, useLocation } from 'react-router-dom';
 import '../src/Design/home.css';
 import '../src/Design/nav.css';
