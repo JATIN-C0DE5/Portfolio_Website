@@ -14,7 +14,7 @@ function Home() {
               <img src={mypic} alt="Jatin Yadav" />
             </div>
             <h1>Jatin Yadav</h1>
-            <h2>Software Developer</h2>
+            <h2>Software Developerrrrrrrrrrr</h2>
             
             <div className="social-links">
               <a href="https://www.linkedin.com/in/jatin-c0de5/" target="_blank" rel="noopener noreferrer" className="social-icon linkedin">
