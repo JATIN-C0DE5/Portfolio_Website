@@ -412,7 +412,7 @@ function Design() {
             <li>Social Media Head at SPARK E-Cell – led a new team to successful campaigns.</li>
           </ul>
 
-          <h3>UI/UX as a career? (June 2026 onwards) :</h3>
+          <h3>UI/UX as a career? (June 2025 onwards) :</h3>
           <ul>
             <li>Applying for Juspay PE-Intern role made me realize I could combine logic and creativity and make career out of it – my "IKIGAI".</li>
             <li>Explored Figma deeply and completed multiple UI/UX-focused courses.</li>
