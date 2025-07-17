@@ -6,6 +6,7 @@ import de3 from '../Images/degal3.png';
 
 import wie1 from '../Images/wie1.jpg';
 import wie2 from '../Images/WIE2.png';
+
 import spark1 from '../Images/spark1.png';
 import spark2 from '../Images/spark2.jpg';
 import spark4 from '../Images/spark4.jpg';
@@ -48,24 +49,25 @@ function Design() {
       media: [
         { 
           type: 'image', 
-          url: 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=600&fit=crop',
-          thumbnail: 'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=120&h=80&fit=crop'
-        },
-        { 
-          type: 'video', 
-          url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
-          thumbnail: 'https://images.unsplash.com/photo-1551650975-87deedd944c3?w=120&h=80&fit=crop'
+          url: de1,
+          thumbnail: de1
         },
         { 
           type: 'image', 
-          url: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop',
-          thumbnail: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=120&h=80&fit=crop'
+          url: de2,
+          thumbnail: de2
         },
         { 
-          type: 'video', 
-          url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4',
-          thumbnail: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=120&h=80&fit=crop'
+          type: 'image', 
+          url: de3,
+          thumbnail: de3
         }
+        // { 
+        //   type: 'video', 
+        //   url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
+        //   thumbnail: 'https://images.unsplash.com/photo-1551650975-87deedd944c3?w=120&h=80&fit=crop'
+        // },
+        
       ],
       highlights: [
         'Law focussed and intuitive user interface design',
@@ -105,20 +107,20 @@ function Design() {
       ],
       media: [
         { 
-          type: 'video', 
-          url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4',
-          thumbnail: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=120&h=80&fit=crop'
+          type: 'image', 
+          url: wie1,
+          thumbnail: wie1
         },
         { 
           type: 'image', 
-          url: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop',
-          thumbnail: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=120&h=80&fit=crop'
-        },
-        { 
-          type: 'video', 
-          url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4',
-          thumbnail: 'https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=120&h=80&fit=crop'
+          url: wie2,
+          thumbnail: wie2
         }
+        // { 
+        //   type: 'video', 
+        //   url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4',
+        //   thumbnail: 'https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=120&h=80&fit=crop'
+        // }
       ],
       highlights: [
         'Gave them thier uniqe Identity by creating a logo as per the IEEE-WIE guidelines',
@@ -162,24 +164,26 @@ function Design() {
       media: [
         { 
           type: 'image', 
-          url: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=600&fit=crop',
-          thumbnail: 'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=120&h=80&fit=crop'
-        },
-        { 
-          type: 'video', 
-          url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4',
-          thumbnail: 'https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=120&h=80&fit=crop'
-        },
-        { 
+          url: spark1,
+          thumbnail: spark1
+        },{ 
           type: 'image', 
-          url: 'https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=600&fit=crop',
-          thumbnail: 'https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=120&h=80&fit=crop'
+          url: spark2,
+          thumbnail: spark2
+        },{ 
+          type: 'image', 
+          url: spark4,
+          thumbnail: spark4
+        },{ 
+          type: 'image', 
+          url: spark5,
+          thumbnail: spark5
         },
-        { 
-          type: 'video', 
-          url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4',
-          thumbnail: 'https://images.unsplash.com/photo-1542744094-24638eff58bb?w=120&h=80&fit=crop'
-        }
+        // { 
+        //   type: 'video', 
+        //   url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4',
+        //   thumbnail: 'https://images.unsplash.com/photo-1542744094-24638eff58bb?w=120&h=80&fit=crop'
+        // }
       ],
       highlights: [
         'Designed various Social Media Posts and Stories by keeping in mind their style guides',
@@ -227,25 +231,47 @@ function Design() {
       ],
       media: [
         { 
-          type: 'video', 
-          url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4',
-          thumbnail: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=120&h=80&fit=crop'
-        },
-        { 
           type: 'image', 
-          url: 'https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800&h=600&fit=crop',
-          thumbnail: 'https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=120&h=80&fit=crop'
-        },
-        { 
-          type: 'video', 
-          url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4',
-          thumbnail: 'https://images.unsplash.com/photo-1551782450-a2132b4ba21d?w=120&h=80&fit=crop'
-        },
-        { 
+          url: ot1,
+          thumbnail: ot1
+        },{ 
           type: 'image', 
-          url: 'https://images.unsplash.com/photo-1563379091339-03246963d51a?w=800&h=600&fit=crop',
-          thumbnail: 'https://images.unsplash.com/photo-1563379091339-03246963d51a?w=120&h=80&fit=crop'
+          url: ot2,
+          thumbnail: ot2
+        },{ 
+          type: 'image', 
+          url: ot3,
+          thumbnail: ot3
+        },{ 
+          type: 'image', 
+          url: ot4,
+          thumbnail: ot4
+        },{ 
+          type: 'image', 
+          url: ot5,
+          thumbnail: ot5
+        },{ 
+          type: 'image', 
+          url: ot6,
+          thumbnail: ot6
+        },{ 
+          type: 'image', 
+          url: ot7,
+          thumbnail: ot7
+        },{ 
+          type: 'image', 
+          url: ot8,
+          thumbnail: ot8
+        },{ 
+          type: 'image', 
+          url: ot9,
+          thumbnail: ot9
         }
+        // { 
+        //   type: 'video', 
+        //   url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4',
+        //   thumbnail: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=120&h=80&fit=crop'
+        // },
       ],
       highlights: [
         'Made a few Sketches during Covid pandemic',
@@ -580,35 +606,43 @@ function Design() {
             
             {/* Documentation */}
             <div className="project-documentation">
-              {/* Intuition */}
-              <div className="doc-section">
+
+              <h3>Documentation and reasoning under construction , possible update date : 30th july </h3>
+              <h3>Also more Proof of work will be added in the format of pics, video, Links</h3>
+              
+              
+              
+              
+              
+              
+              
+              
+              {/* <div className="doc-section">
                 <h3>Intuition</h3>
                 <ul>
                   {overlayProject.documentation.intuition.map((item, index) => (
                     <li key={index}>{item}</li>
                   ))}
                 </ul>
-              </div>
+              </div> */}
               
-              {/* Reasoning */}
-              <div className="doc-section">
+              {/* <div className="doc-section">
                 <h3>Reasoning</h3>
                 <ul>
                   {overlayProject.documentation.reasoning.map((item, index) => (
                     <li key={index}>{item}</li>
                   ))}
                 </ul>
-              </div>
+              </div> */}
               
-              {/* Research */}
-              <div className="doc-section">
+              {/* <div className="doc-section">
                 <h3>Research</h3>
                 <ul>
                   {overlayProject.documentation.research.map((item, index) => (
                     <li key={index}>{item}</li>
                   ))}
                 </ul>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
