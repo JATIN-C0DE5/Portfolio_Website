@@ -14,7 +14,7 @@ function Home() {
               <img src={mypic} alt="Jatin Yadav" />
             </div>
             <h1>Jatin Yadav</h1>
-            <h2>Software Developer</h2>
+            <h2>Code & Create</h2>
             
             <div className="social-links">
               <a href="https://www.linkedin.com/in/jatin-c0de5/" target="_blank" rel="noopener noreferrer" className="social-icon linkedin">
@@ -82,7 +82,7 @@ function Home() {
               <p>A cybersecurity enthusiast, full-stack developer, and design-driven techie currently pursuing B.Tech in Computer Science at Bennett University.</p>
               <p>I've led design and content teams at IEEE WIE and Spark E-Cell, organizing 15+ large-scale events, and worked on projects ranging from Entity Extractor, Network Scanner to custom NAS setups. My technical toolkit includes React, Node, Python, MongoDB, Nmap, and more — and I'm currently diving deeper into Advanced DSA, and Big Data Security</p>
               <p>Outside academics, I enjoy exploring the intersection of technology and real-world impact. I have a track record of consistently excelling in competitions and research — earning multiple accolades including four Junior Scientist titles.  If it's bold, creative, and tech-driven — I'm probably building it.</p>
-              <p>I'm seeking opportunities for a <span className="highlight">developer role / cyberSec. role</span>.</p>
+              <p>I'm seeking opportunities for a <span className="highlight">designer role / developer role / cyberSec. role</span>.</p>
             </div>
             
             <div className="achievements-section">
