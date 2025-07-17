@@ -1,0 +1,35 @@
+
+
+
+.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  .dark-mode .navbar {
+    background-color: #1f1f1f;
+    color: #ffffff;
+  }
+  
+
+  .dark-mode .nav-link {
+    color: #ffffff;
+  }
+  
+  .dark-mode .nav-link:hover {
+    color: #bb86fc;
+  }
+  
+
+  .dark-mode .dark-mode-toggle {
+    background-color: #3a3a3a;
+    color: #ffffff;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+  }
+  
+  .dark-mode .dark-mode-toggle:hover {
+    background-color: #565656;
+  }
+  
